@@ -1,6 +1,6 @@
 # TANKS! — First to Three
 
-![TANKS! Game Thumbnail](thumbnail.jpg)
+![TANKS! Game Thumbnail](Tank-Thumbnail.png)
 
 **TANKS!** is a local multiplayer arena battle game built in Unity. This project is based on the official [Unity Tanks Tutorial](https://learn.unity.com/course/tanks-make-a-battle-game-for-web-and-mobile) with my own additions on top, including a first-to-three win format, powerups, multiple tank types, and a player select screen.
 
